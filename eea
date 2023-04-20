@@ -37,8 +37,8 @@
   "javaIntegrity": [
     {
       "path": "lib/rt.jar",
-      "checksum32": "f65f74c0c930628262bd9f21ff2e4a50b6f09558",
-	  "checksum64": "f65f74c0c930628262bd9f21ff2e4a50b6f09558"
+      "checksum32": "92c3b7b14099690483e9ff875d195e12b3c789e0",
+	  "checksum64": "92c3b7b14099690483e9ff875d195e12b3c789e0"
     }
   ]
 }
